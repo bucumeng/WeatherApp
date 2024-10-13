@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> //stillerin tanımlandığı kısım
+    // Yeni bir stil oluşturur
+    <style name="Theme.WeatherApp" parent="android:Theme.Material.Light.NoActionBar" > // uygulamanın genel görümünü etkiler
+        
+        <item name="android:windowTranslucentNavigation">true</item> //üst araç çubuğu olmayan bir stil
+        //navigasyoon çubuğunun yarı saydam olmasını sağlar
+
+        </style>
+</resources>
